@@ -30,6 +30,5 @@ Users should be able to:
 ## Author
 
 - Github - [@migueweb](https://github.com/migueweb)
-- Portfolio - [migueweb.github.io/portfolio](https://migueweb.github.io/portfolio)
 - Frontend Mentor - [@migueweb](https://www.frontendmentor.io/profile/migueweb)
 
